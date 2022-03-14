@@ -1,5 +1,6 @@
 # WhoisCheckerAll
 Whois Checker
+Мангус ливнул из чата, спасибо Америка 
 MEVN Backend + Frontend
 ![image](https://user-images.githubusercontent.com/42736248/154538314-2dade916-b2ac-41d6-aa2d-85aad5f9e6dd.png)
 ![image](https://user-images.githubusercontent.com/42736248/154538376-bd822845-ef2a-49f9-9b6d-ed2c2c1f037f.png)
